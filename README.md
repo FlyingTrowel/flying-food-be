@@ -1,4 +1,4 @@
-# Flying Food
+# Flying Food Web Application (Laravel)
 
 [Flying Food Mobile App](https://github.com/FlyingTrowel/flying-food-mobile).
 
